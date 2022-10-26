@@ -1,1 +1,1 @@
-"Hello World"
+print("All work and no play makes James a dull boy...")
